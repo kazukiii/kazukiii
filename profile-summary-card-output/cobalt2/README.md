@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/kazukiii/kazukiii/master/profile-summary-card-output/cobalt2/2-most-commit-language.svg)
+```
+
+    
